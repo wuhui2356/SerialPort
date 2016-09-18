@@ -1,6 +1,6 @@
 # SerialPort
 
-QT写的串口助手
+基于QT的串口调试助手助手
 
 目前只能运行在Linux平台下
 
